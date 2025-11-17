@@ -1,0 +1,11 @@
+C:\Users\demezalan\Documents\Projekt_munkak\DZ-Fadatok\bin\Debug\DZ-Fadatok.exe.config
+C:\Users\demezalan\Documents\Projekt_munkak\DZ-Fadatok\bin\Debug\DZ-Fadatok.exe
+C:\Users\demezalan\Documents\Projekt_munkak\DZ-Fadatok\bin\Debug\DZ-Fadatok.pdb
+C:\Users\demezalan\Documents\Projekt_munkak\DZ-Fadatok\obj\Debug\DZ-Fadatok.csproj.AssemblyReference.cache
+C:\Users\demezalan\Documents\Projekt_munkak\DZ-Fadatok\obj\Debug\DZ_Fadatok.Form1.resources
+C:\Users\demezalan\Documents\Projekt_munkak\DZ-Fadatok\obj\Debug\DZ_Fadatok.Properties.Resources.resources
+C:\Users\demezalan\Documents\Projekt_munkak\DZ-Fadatok\obj\Debug\DZ-Fadatok.csproj.GenerateResource.cache
+C:\Users\demezalan\Documents\Projekt_munkak\DZ-Fadatok\obj\Debug\DZ-Fadatok.csproj.CoreCompileInputs.cache
+C:\Users\demezalan\Documents\Projekt_munkak\DZ-Fadatok\obj\Debug\DZ-Fadatok.exe
+C:\Users\demezalan\Documents\Projekt_munkak\DZ-Fadatok\obj\Debug\DZ-Fadatok.pdb
+C:\Users\demezalan\Documents\Projekt_munkak\DZ-Fadatok\obj\Debug\DZ-Fadatok.exe.config
